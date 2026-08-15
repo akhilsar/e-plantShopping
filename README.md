@@ -1,7 +1,7 @@
-# Paradise Nursery Shopping Application
+# e-plantShopping: Paradise Nursery Application
 
 ## Overview
-Paradise Nursery is an interactive shopping cart application built for an online plant shop. It offers a variety of house plants and provides a seamless, dynamic user experience from initial browsing to managing the shopping cart. 
+Welcome to the **e-plantShopping** repository! This project contains the Paradise Nursery Shopping Application, an interactive shopping cart built for an online plant shop. It offers a variety of house plants and provides a seamless, dynamic user experience from initial browsing to managing the shopping cart. 
 
 ## Key Features
 * **Intuitive Navigation:** A persistent navigation bar that includes links to the landing page, product listing, and the shopping cart. It also features a dynamic cart icon that instantly updates to display the total quantity of items added.
